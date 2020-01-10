@@ -1,0 +1,272 @@
+#container{
+  
+    
+}
+.linkbutton{
+   
+     background:none!important;
+     color:black;
+     border:none; 
+     padding:0!important;
+     font: inherit;
+  
+    text-align: left;
+     cursor: pointer;
+
+    
+}
+.linkbutton:hover{
+color:blue;
+}
+
+#header{
+    background:#176416;
+    width:100%;
+    height:50px;
+    color:#FFCF79;
+    font-family: Impact, Charcoal, sans-serif;
+    box-shadow: 0px 5px 3px #888888;
+    
+}
+body{
+    margin:0px;
+   background-repeat: no-repeat;
+    background-size: 100% 680px;
+   
+    
+}
+input[type=number],input[type=text], select ,input[type=password]{
+    
+    padding: 5px 5px;
+   padding-left:30px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+#iconimage{
+    height:20px;
+    width:20px;
+    position:absolute;
+    top:4px;
+    left:5px;
+}
+#login{
+    position:absolute;
+    top:10px;
+    left:800px;
+}
+
+
+.success {background-color: #4CAF50;
+
+    border: none;
+    color: white;
+    padding: 5px 28px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+.success:hover {background-color: #46a049;}
+
+#infodiv{
+    position:absolute;
+    top:300px;
+    left:250px;
+    border:none;
+    color:white;
+    font-style: italic;
+    font-family: Arial, Charcoal, sans-serif;
+}
+
+#register{
+    position:absolute;
+    top:100px;
+    left:800px;
+    border:none;
+    color:white;
+    font-style: italic;
+    font-family: Arial, Charcoal, sans-serif;
+}
+
+.reg{background-color:  #176416;
+
+    border:none;
+    color: white;
+    padding: 5px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    
+
+}
+.reg:hover {background-color: #46a049;}
+
+.profimage{
+    width:235px;
+    height: 200px;
+    
+}
+#teachprofile{
+    border:none;
+    box-shadow: 5px 5px 3px #888888;
+    background:#176416;
+    width:238px;
+    height: 270px;
+    position:absolute;
+    top:70px;
+    left:20px;
+    text-align: center;
+    color:white;
+}
+
+#navi{
+    border:none;
+    box-shadow: 5px 5px 3px #888888;
+    background:#176416;
+    width:238px;
+    height: 220px;
+    position:absolute;
+    top:380px;
+    left:20px;
+}
+#navicon{
+    height:30px;
+    width:30px;
+    margin-bottom:20px;
+}
+ul {
+  list-style-type: none;
+}
+#navlink{
+    margin-top:5px;
+    margin-left:5px;
+    position:absolute;
+    text-decoration:none;
+    font-family: Arial, Charcoal, sans-serif;
+    color:white;
+    
+}
+#navlink:hover{
+    color:red;
+}
+#inform{
+  position:absolute;
+  top:120px;
+  border:none;
+  left:300px;
+    box-shadow: 5px 5px 3px #888888;
+    background:#176416;
+    width:238px;
+    height: 220px;  
+    font-family: Arial, Charcoal, sans-serif;
+    color:white;
+}
+#note{
+   position:absolute;
+  top:70px;
+  border:none;
+  left:300px;
+    box-shadow: 5px 5px 3px #888888;
+    background:#176416;
+    width:741px;
+    height: 20px;  
+    color:white;
+    font-family: Arial, Charcoal, sans-serif;  
+}
+
+#pass{
+   position:absolute;
+  top:120px;
+  border:none;
+    left:580px;
+    box-shadow: 5px 5px 3px #888888;
+    background:#176416;
+    width:460px;
+    height: 220px;  
+    color:white;
+    font-family: Arial, Charcoal, sans-serif;  
+}
+#submission{
+   position:absolute;
+  top:70px;
+  border:none;
+    left:1080px;
+    box-shadow: 5px 5px 3px #888888;
+    background:#176416;
+    width:220px;
+    height: 530px;  
+    color:white;
+    font-family: Arial, Charcoal, sans-serif;  
+}
+#footer{
+    position:absolute;
+    top:500px;
+    left:500px;
+    border:none;
+     
+}
+
+#classlist{
+   position:absolute;
+  top:70px;
+  border:none;
+    left:300px;
+    box-shadow: 5px 5px 3px #888888;
+    background:#176416;
+    width:740px;
+      
+    color:white;
+    font-family: Arial, Charcoal, sans-serif;  
+}
+fieldset{
+
+    border-radius:5px;
+}
+
+#classroom{
+    height:100px;
+    width: 100px;
+    
+}
+#tdstyle{
+    padding:20px;   
+    border: 1px solid white;
+    height:auto;
+    padding-bottom: 10px;
+  width:100px;
+    
+}
+#tbllbl{
+    border:none;
+    color:white;
+    
+    position:absolute;
+    width: 100px;
+   display: block;
+  
+    
+    height: 60px;
+}
+textarea {
+    background:transparent;
+     resize: none;
+    
+   
+}
+td:hover{
+    background:#eebd88;
+}
+
+
+#myClassroom{
+    border:none;
+    box-shadow: 5px 5px 3px #888888;
+    background:#176416;
+    width:750px;
+    height: 600px;
+    position:absolute;
+    top:70px;
+    left:295px;
+     font-family: Arial, Charcoal, sans-serif;  
+    color:white;
+}

@@ -1,0 +1,38 @@
+#mainContent{
+    position:relative;
+    top:80px;
+    left:250px;
+}
+#import_results{
+    position:relative;
+    top:80px;
+        left:250px;
+}
+tr:nth-child(even),thead{
+    background-color: #AECED5;
+}
+thead{
+    text-align: left;
+    
+}
+table{
+    font-size: 13px;
+    
+}
+#master_list{
+    position:relative;
+    width:250px;
+    height: 150px;
+    border-radius: 10px;
+}
+#do_list{
+    position:absolute;
+    left:280px;
+    top:0px;
+    width:790px;
+    height: 150px;
+    border-radius: 10px;
+}
+#clearlist{
+    margin-top:15px;
+}
